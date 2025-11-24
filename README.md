@@ -1,2 +1,2 @@
-# Niblix-tasks
+# Nimblix-tasks
 task 1
